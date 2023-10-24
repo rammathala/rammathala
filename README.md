@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
- <li>**rammathala@gmail.com**</li>l
+ <li>rammathala@gmail.com</li>
 <li><a href='https://www.linkedin.com/rammathala/'> Linkedin</a></li>
 <li><a href='https://github.com/rammathala'> Github </a></li>
   </ul>
