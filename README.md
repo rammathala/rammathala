@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
  
-<a href='https://www.linkedin.com/in/ram-mathala/'> <li> Linkedin </li></a>
+<a href='https://www.linkedin.com/in/ram-mathala/'> <li>Linkedin</li></a>
 <a href='https://github.com/rammathala'> <li>Github</li> </a>
   </ul>
 <p align="left">
