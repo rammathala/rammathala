@@ -9,7 +9,7 @@
 <ul>
  
 <a href='https://www.linkedin.com/in/ram-mathala/'> <li> Linkedin </li></a>
-<br></br><a href='https://github.com/rammathala'> <li>Github</li> </a>
+<a href='https://github.com/rammathala'> <li>Github</li> </a>
   </ul>
 <p align="left">
 </p>
