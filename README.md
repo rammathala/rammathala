@@ -6,7 +6,7 @@
 - 📫 How to reach me **rammathala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href='https://www.linkedin.com/in/ram-mathala/'> Github </a>
+<a href='https://www.linkedin.com/in/ram-mathala/'> Linkedin </a>
 <p align="left">
 </p>
 
