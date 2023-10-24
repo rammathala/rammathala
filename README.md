@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href='https://www.linkedin.com/in/ram-mathala/'> Linkedin </a>
+<a href='[https://www.linkedin.com/in/ram-mathala/](https://github.com/rammathala)'> Github </a>
 <p align="left">
 </p>
 
